@@ -1,0 +1,13 @@
+﻿eMule countryflag v2.0 changelog (2024-04-22):
+
+* famfamfam: Add new flags (bq/cw/sj/ss/sx) from Wikimedia Commons.
+* flagfox1: Add new flags (bl/bq/cw/sj/ss/sx) from flagfox 6.1.73.
+* flagfox2: Add new flags (bl/bq/cw/sj/ss/sx) from flagfox 6.1.73.
+
+
+----------------------------------------------------------------------------------------------------
+
+
+eMule countryflag v1.0 changelog (2010-06-05):
+
+* Set up project.
